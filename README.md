@@ -17,7 +17,7 @@
 - 🏆 Proud **Smart India Hackathon 2026 Finalist** and secured a Top 50 spot in ICCSAI 2025.
 - 🧠 Enthusiastic problem solver: Achieved a global rank of **4,830** in LeetCode Weekly Contest 522.
 - 🌱 Currently building reliable and maintainable software using **Node.js, Express, MongoDB, and AWS**.
-- 📫 How to reach me: **[hhariom827@gmail.com](mailto:hhariom827@gmail.com)**
+- 📫 How to reach me: **<a href="mailto:hhariom827@gmail.com">hhariom827@gmail.com</a>**
 
 ---
 
@@ -40,6 +40,15 @@
 #### ✨ BLUSHRSH: Portfolio & Content Management Platform
 * **Tech Stack:** JavaScript, Node.js, MongoDB, AWS (S3, CloudFront)
 * **Impact:** Developed a responsive web application featuring an interactive Glam Room, animated landing page, dynamic media delivery via AWS, and OTP-secured admin authentication.
+
+---
+
+### 📊 LeetCode Stats
+
+<div align="center">
+  <!-- Replace 'Hariom827' with your actual LeetCode username if it's different -->
+  <img src="https://leetcard.jacoblin.cool/Hariom827?theme=dark&font=Righteous&ext=activity" alt="LeetCode Stats" />
+</div>
 
 ---
 
